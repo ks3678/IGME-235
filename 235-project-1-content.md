@@ -36,5 +36,7 @@ Player needs to learn how to react faster as levels increases and to prioritize 
 
 ## Sketches
 (im bad at drawing on MS Paint)
+Sketch 1
 ![](Ingame1.png)
+Sketch 2(Boss fight)
 ![](ingame2.png)

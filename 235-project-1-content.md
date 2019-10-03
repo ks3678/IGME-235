@@ -36,5 +36,5 @@ Player needs to learn how to react faster as levels increases and to prioritize 
 
 ## Sketches
 (im bad at drawing on MS Paint)
-<img src="Ingame1.png" alt="ingame screenshot />
-<<img src="ingame2.png" alt="ingame screenshot 2 />
+![](Ingame1.png)
+![](ingame2.png)
